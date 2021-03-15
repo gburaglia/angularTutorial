@@ -1,0 +1,1 @@
+tsc --target ES5 main.ts && node main.js
